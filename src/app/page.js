@@ -8,13 +8,12 @@ import WhatWeDo from "@/components/WhatWedo";
 import { useState, useRef, useEffect } from "react";
 import Cookies from "js-cookie";
 import "toastr/build/toastr.min.css";
+import Skillbuzz from "../partners/Skillbuzz.svg";
+import Spotify from "../assets/Spotify.png";
+import Swift from "../partners/swift.svg";
+import Trussme from "../partners/trussme.svg";
+import Unipreneur from "../partners/unipreneur.svg";
 import Adobe from "../assets/Adobe.png";
-import airbnb from "../assets/airbnb.png";
-import framer from "../assets/framer.png";
-import github from "../assets/github.png";
-import spotify from "../assets/spotify.png";
-import twitch from "../assets/twitch.png";
-import medium from "../assets/medium.png";
 import Image from "next/image";
 import Vector from "../assets/vectorHero.svg";
 import VectorStart from "../assets/Vector.png";
@@ -349,25 +348,22 @@ export default function Home() {
         </div>
         <div className="cli-resp-trusted-partner flex flex-wrap md:flex-nowrap lg:flex-wrap justify-center md:justify-between gap-5">
           <div>
-            <Image src={Adobe} className="opacity-25" alt="img"/>
+            <Image src={Swift} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={airbnb} className="opacity-25" alt="img"/>
+            <Image src={Spotify} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={framer} className="opacity-25" alt="img"/>
+            <Image src={Skillbuzz} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={github} className="opacity-25" alt="img"/>
+            <Image src={Trussme} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={spotify} className="opacity-25" alt="img"/>
+            <Image src={Adobe} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={twitch} className="opacity-25" alt="img"/>
-          </div>
-          <div>
-            <Image src={medium} className="opacity-25" alt="img"/>
+            <Image src={Unipreneur} className="opacity-25" alt="img" draggable="false"/>
           </div>
         </div>
       </div>
@@ -1351,13 +1347,13 @@ export default function Home() {
             </div>
           </div>
           <div className="flex md:hidden justify-center mt-8">
-            <div className="mr-2 bg-transparent border border-2 border-primary-dark-gray rounded-2xl flex justify-center items-center">
+            <div className="mr-2 bg-transparent border-2 border-primary-dark-gray rounded-2xl flex justify-center items-center">
               <button className="button p-4" onClick={previousClient}>
                 <LeftArrow height={24} width={24} color={"#000"} />
                 {/* <Image src={leftArrow} className="" /> */}
               </button>
             </div>
-            <div className="bg-transparent border border-2 border-primary-dark-gray rounded-2xl flex justify-center items-center">
+            <div className="bg-transparent border-2 border-primary-dark-gray rounded-2xl flex justify-center items-center">
               <button className="button p-4" onClick={nextClient}>
                 <RightArrow height={24} width={24} color={"#000"} />
                 {/* <Image src={rightArrow} className="" /> */}
