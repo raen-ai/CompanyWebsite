@@ -9,9 +9,11 @@ import { useState, useRef, useEffect } from "react";
 import Cookies from "js-cookie";
 import "toastr/build/toastr.min.css";
 import Skillbuzz from "../partners/Skillbuzz.svg";
+import Spotify from "../assets/Spotify.png";
 import Swift from "../partners/swift.svg";
 import Trussme from "../partners/trussme.svg";
 import Unipreneur from "../partners/unipreneur.svg";
+import Adobe from "../assets/Adobe.png";
 import Image from "next/image";
 import Vector from "../assets/vectorHero.svg";
 import VectorStart from "../assets/Vector.png";
@@ -349,10 +351,16 @@ export default function Home() {
             <Image src={Swift} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
+            <Image src={Spotify} className="opacity-25" alt="img" draggable="false"/>
+          </div>
+          <div>
             <Image src={Skillbuzz} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
             <Image src={Trussme} className="opacity-25" alt="img" draggable="false"/>
+          </div>
+          <div>
+            <Image src={Adobe} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
             <Image src={Unipreneur} className="opacity-25" alt="img" draggable="false"/>
