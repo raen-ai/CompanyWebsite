@@ -1,0 +1,24 @@
+.back{
+  background: url("../../assets/back.png");   
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1069px) {
+  .cli-repo-why-ream-grid{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    .cli-repo-why-ream-grid-3{
+      display: block;
+    }
+    .cli-repo-why-ream-grid-6{
+      display: block;
+    }
+  }
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1200px) {
+  .cli-res-why-raen-sol{
+    display: block;
+  }
+  .cli-res-why-raen-sol-flex-1{
+    padding-left: 6rem;
+  }
+}

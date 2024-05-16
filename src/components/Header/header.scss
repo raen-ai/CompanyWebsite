@@ -1,0 +1,21 @@
+.background1 {
+  backdrop-filter: blur(15px);
+  background-color: rgba(255, 255, 255, 0.256);
+  border: 1px solid #d6d6d662;
+}
+
+.background-with-bottom-image {
+  /* Set background image */
+  background-image: url('../../assets/Sphere.png');
+  /* Set background position to bottom center */
+  background-position: bottom center;
+  /* Set background size to cover */
+  background-size: cover;
+  
+}
+
+.mobileMenuEarth{
+  @media screen and (min-width: 370px) and (max-width: 376px) {
+    bottom: -26%;
+  }
+}

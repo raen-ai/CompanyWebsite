@@ -1,0 +1,3273 @@
+import React from "react";
+
+const Group5 = ({ hover }) => {
+  return (
+    <div>
+      <svg
+        className="group-5-svg w-[420px] h-[220px] md:w-[420px] md:h-[220px] lg:w-[598px] lg:h-[344px]"
+        viewBox="0 0 598 344"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M491.345 120.547L516.539 113.362L507.211 127.315L494.777 123.156L491.706 121.296L491.345 120.547Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M516.538 113.36L491.344 120.544L509.038 103.619L516.538 113.36Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M507.21 127.314L516.538 113.361L524.301 122.996L513.848 129.536L507.21 127.314Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M513.847 129.537L524.3 122.998L520.414 130.462L517.994 130.925L513.847 129.537Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M524.303 122.996L531.255 128.394L520.416 130.459L524.303 122.996Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M534.323 140.086L521.15 161.228L525.598 151.666L534.323 140.086Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M491.345 120.547L491.706 121.296L491.048 120.898L491.345 120.547Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M525.599 151.667L521.151 161.227L504.691 195.033L525.599 151.667Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M546.156 122.324L550.893 118.095L546.647 122.106L546.156 122.324Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M577.473 122.999L551.199 129.715L542.36 126.276L577.473 122.999Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M534.05 127.86L534.883 127.324L542.361 126.276L534.05 127.86Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M546.646 122.107L550.893 118.096L558.67 116.775L546.646 122.107Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M577.473 122.999L542.36 126.276L567.761 119.783L577.473 122.999Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M542.359 126.277L551.198 129.714L518.511 131.095L517.994 130.922L520.416 130.46L531.254 128.394L534.049 127.861L542.359 126.277Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M525.599 151.667L504.691 195.033L507.538 181.627L525.599 151.667Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M525.598 151.666L507.537 181.626L529.727 138.086L525.598 151.666Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M529.727 138.086L507.537 181.626L509.473 161.533L529.727 138.086Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M529.727 138.086L509.473 161.533L531.277 132.174L532.639 132.007L529.727 138.086Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M529.729 138.085L532.64 132.007L539.06 131.214L529.729 138.085Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M529.727 138.087L539.058 131.215L541.209 130.95L534.323 140.087L525.598 151.667L529.727 138.087Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M509.475 161.533L507.539 181.627L488.656 205.728L509.475 161.533Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M567.759 119.784L542.359 126.277L534.881 127.325L567.759 119.784Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M567.759 119.784L534.881 127.325L546.156 122.324L546.646 122.106L558.67 116.772L567.759 119.784Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M507.538 181.626L504.69 195.032L487.148 221.542L507.538 181.626Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M531.279 132.174L509.475 161.533L511.997 142.056L530.928 132.218L531.279 132.174Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M511.995 142.057L509.473 161.534L488.182 178.462L511.995 142.057Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M509.475 161.533L488.656 205.728L488.184 178.461L509.475 161.533Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M530.928 132.218L511.996 142.056L516.568 131.436L524.311 133.036L530.928 132.218Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M516.569 131.437L511.997 142.057L487.364 147.344L516.303 131.383L516.569 131.437Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M516.302 131.382L487.363 147.343L488.934 125.729L516.302 131.382Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M518.512 131.097L551.198 129.715L541.211 130.95L539.059 131.215L532.639 132.009L531.278 132.175L530.928 132.219L524.311 133.037L518.512 131.097Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.656 205.726L507.538 181.625L487.15 221.541L488.656 205.726Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.656 205.73L487.151 221.544L467.088 234.753L488.656 205.73Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M511.995 142.057L488.182 178.462L487.363 147.345L511.995 142.057Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M487.363 147.342L488.183 178.461L463.758 179.641L487.363 147.342Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.182 178.461L488.654 205.728L467.004 215.419L488.182 178.461Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.934 125.73L487.363 147.343L459.986 139.499L488.934 125.73Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M487.363 147.343L463.758 179.642L459.984 139.5L487.363 147.343Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M459.985 139.5L463.757 179.642L436.359 167.49L459.985 139.5Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.933 125.73L459.984 139.5L458.919 110.227L488.933 125.73Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M463.757 179.643L488.182 178.461L467.004 215.419L463.757 179.643Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M463.753 236.901L441.012 234.356L467.085 234.753L463.753 236.901Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M467.087 234.752L441.014 234.357L443.641 232.078L467.087 234.752Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M443.641 232.078L441.014 234.356L415.099 218.374L443.641 232.078Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M467.087 234.753L443.641 232.079L467.005 215.421L467.087 234.753Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M467.004 215.419L443.641 232.078L441.729 208.289L467.004 215.419Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M467.086 234.753L467.004 215.421L488.654 205.73L467.086 234.753Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M458.92 110.226L459.985 139.5L430.468 122.76L458.92 110.226Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.934 125.729L458.92 110.226L494.777 123.155L488.934 125.729Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.934 125.729L494.776 123.155L507.21 127.313L513.848 129.535L517.994 130.923L518.511 131.096L524.311 133.036L516.568 131.436L516.302 131.383L488.934 125.729Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M494.776 123.156L458.92 110.226L463.063 103.955L491.047 120.897L491.705 121.295L494.776 123.156Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M463.063 103.956L458.92 110.227L427.643 90.4461L463.063 103.956Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M467.004 215.419L441.729 208.29L463.758 179.643L467.004 215.419Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M441.73 208.291L443.642 232.079L416.865 215.267L441.73 208.291Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M416.864 215.266L443.642 232.078L415.097 218.373L416.864 215.266Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M441.729 208.289L416.863 215.265L413.752 190.047L441.729 208.289Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M441.729 208.29L413.753 190.048L436.359 167.491L441.729 208.29Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M458.92 110.226L430.469 122.761L427.643 90.4457L458.92 110.226Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M430.56 83.022L463.063 103.956L427.642 90.4463L430.56 83.022Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M436.358 167.491L463.756 179.644L441.729 208.291L436.358 167.491Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M459.985 139.499L436.359 167.49L430.468 122.76L459.985 139.499Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M416.864 215.264L415.097 218.372L387.158 195.028L416.864 215.264Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M413.753 190.045L416.865 215.265L388.295 192.151L413.753 190.045Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M430.561 83.0205L427.644 90.4449L397.01 75.336L430.561 83.0205Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M436.359 167.491L413.752 190.046L407.25 148.937L436.359 167.491Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M436.359 167.49L407.25 148.936L430.468 122.76L436.359 167.49Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M430.467 122.761L407.25 148.937L400.426 105.227L430.467 122.761Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M400.426 105.227L407.25 148.937L378.476 133.334L400.426 105.227Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M430.469 122.761L400.428 105.226L427.643 90.445L430.469 122.761Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M407.251 148.935L413.753 190.046L384.883 169.45L407.251 148.935Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M427.643 90.445L400.426 105.226L397.01 75.3361L427.643 90.445Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M397.01 75.3363L400.428 105.226L372.093 96.5091L397.01 75.3363Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M430.56 83.0204L397.009 75.3359L399.109 68.7583L430.56 83.0204Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M384.883 169.453L413.752 190.047L388.294 192.153L384.883 169.453Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M407.25 148.935L384.883 169.451L378.477 133.333L407.25 148.935Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M378.476 133.334L384.883 169.452L357.319 155.796L378.476 133.334Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M400.426 105.226L378.477 133.333L372.092 96.5104L400.426 105.226Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M397.009 75.3365L372.092 96.5093L369.25 73.9853L397.009 75.3365Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M369.25 73.9864L372.093 96.5101L347.547 104.355L369.25 73.9864Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M370.406 67.7719L399.109 68.7592L369.25 73.9869L370.406 67.7719Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M369.25 73.987L399.109 68.7594L397.01 75.3383L369.25 73.987Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M388.295 192.152L416.865 215.265L387.158 195.029L388.295 192.152Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M388.295 192.151L387.159 195.027L359.102 172.796L388.295 192.151Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M370.406 67.7703L369.25 73.9852L345.057 87.8374L370.406 67.7703Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M372.094 96.5112L378.477 133.335L352.241 129.5L372.094 96.5112Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M384.883 169.452L388.294 192.152L360.045 172.008L384.883 169.452Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M359.101 172.798L349.594 168.193L360.045 172.008L359.101 172.798Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M359.102 172.796L360.046 172.006L388.295 192.151L359.102 172.796Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M384.884 169.452L360.046 172.008L357.32 155.796L384.884 169.452Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M357.32 155.796L360.047 172.007L349.595 168.192L334.117 162.542L357.32 155.796Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M378.477 133.333L357.32 155.794L352.24 129.498L378.477 133.333Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M352.24 129.499L357.32 155.796L332.902 155.784L352.24 129.499Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M369.25 73.9864L347.547 104.355L345.057 87.8386L369.25 73.9864Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M347.547 104.354L372.093 96.5098L352.24 129.5L347.547 104.354Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M370.406 67.7703L345.057 87.8374L345.405 82.5865L370.406 67.7703Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M357.318 155.796L334.115 162.542L332.901 155.784L357.318 155.796Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M332.901 155.783L334.115 162.54L316.526 166.453L332.901 155.783Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M345.404 82.5875L345.055 87.8384L323.988 113.599L345.404 82.5875Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M345.054 87.8374L347.546 104.353L326.539 126.15L345.054 87.8374Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M352.24 129.499L332.902 155.785L329.999 142.156L352.24 129.499Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M347.547 104.353L352.24 129.498L329.998 142.154L347.547 104.353Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M329.999 142.154L332.903 155.782L316.528 166.452L311.941 169.441L329.999 142.154Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M347.547 104.353L329.998 142.154L326.54 126.15L347.547 104.353Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M326.539 126.151L329.998 142.157L309.998 163.013L326.539 126.151Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M309.999 163.013L329.999 142.155L311.941 169.442L309.999 163.013Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M326.541 126.15L310 163.012L307.017 152.626L326.541 126.15Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M307.016 152.626L309.998 163.012L291.678 189.22L307.016 152.626Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M326.54 126.151L307.016 152.626L323.988 113.599L326.54 126.151Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M323.989 113.6L345.056 87.8394L326.541 126.152L323.989 113.6Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M310 163.013L311.941 169.442L292.68 188.968L310 163.013Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M345.404 82.5875L323.988 113.599L323.83 110.454L345.404 82.5875Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M323.829 110.455L323.988 113.6L304.736 145.052L323.829 110.455Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M323.989 113.598L307.016 152.625L304.735 145.051L323.989 113.598Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M161.924 260.169L146.647 254.509L154.705 256.751L161.924 260.169Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M161.923 260.168L154.704 256.75L181.966 261.43L161.923 260.168Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M161.923 260.167L181.965 261.429L188.846 266.634L161.923 260.167Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M181.966 261.43L154.702 256.75L173.26 251.565L181.966 261.43Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M173.262 251.566L154.704 256.752L145.911 249.768L173.262 251.566Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M181.968 261.431L173.262 251.566L198.991 248.34L181.968 261.431Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M145.911 249.768L154.705 256.751L146.647 254.509L126.239 248.832L145.911 249.768Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M145.91 249.766L126.238 248.83L117.815 246.031L145.91 249.766Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M117.815 246.032L126.239 248.831L112.751 245.735L117.815 246.032Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M145.91 249.766L117.815 246.031L136.952 243.853L145.91 249.766Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M173.262 251.565L145.911 249.767L164.23 242.089L173.262 251.565Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M164.231 242.089L145.91 249.765L136.952 243.853L139.296 243.702L151.239 242.929L159.601 242.389L164.231 242.089Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M173.262 251.565L164.231 242.089L165.014 241.951L168.723 241.295L180.029 239.298L190.58 237.435L173.262 251.565Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M188.847 266.637L181.966 261.431L207.062 259.371L188.847 266.637Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M138.173 155.019L164.67 171.185L163.926 183.124L138.173 155.019Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M138.172 155.02L163.925 183.125L136.034 164.272L138.172 155.02Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M136.036 164.269L163.926 183.123L165.77 204.214L136.036 164.269Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M136.035 164.27L165.769 204.215L137.262 185.061L136.035 164.27Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M137.264 185.061L165.771 204.216L168.254 228.064L137.264 185.061Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M137.262 185.061L168.252 228.064L139.885 211.049L137.262 185.061Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M139.886 211.05L168.253 228.065L168.721 241.295L165.014 241.952L139.886 211.05Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M139.886 211.05L165.015 241.952L164.231 242.09L159.599 242.389L141.233 233.793L139.886 211.05Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M141.233 233.793L159.599 242.389L151.237 242.931L141.233 233.793Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M141.232 233.793L151.237 242.93L139.295 243.703L141.232 233.793Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M141.232 233.792L139.294 243.703L136.975 243.851L112.467 218.304L141.232 233.792Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M168.722 241.296L168.252 228.066L180.027 239.298L168.722 241.296Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M168.253 228.064L165.77 204.214L193.333 235.183L168.253 228.064Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M165.77 204.216L163.925 183.124L191.196 214.186L165.77 204.216Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M137.263 185.061L139.886 211.049L108.307 165.543L137.263 185.061Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M136.035 164.271L137.261 185.062L108.035 146.05L136.035 164.271Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M138.174 155.019L136.035 164.27L111.087 137.84L138.174 155.019Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M139.886 211.049L141.233 233.792L110.715 192.501L139.886 211.049Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M163.926 183.123L164.672 171.184L189.125 194.014L163.926 183.123Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M304.291 144.675L323.83 110.454L304.735 145.052L304.291 144.675Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M291.678 189.22L309.999 163.012L292.677 188.968L291.678 189.22Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M304.736 145.051L307.016 152.626L288.941 183.21L304.736 145.051Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M288.94 183.211L307.016 152.626L291.678 189.221L288.94 183.211Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M304.736 145.052L288.941 183.211L286.035 176.888L304.736 145.052Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.673 161.546L288.559 156.449L288.68 159.944L268.673 161.546Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M288.68 159.944L288.56 156.449L297.616 155.682L296.198 158.019L288.68 159.944Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M288.558 156.448L298.729 153.841L297.614 155.682L288.558 156.448Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M286.036 176.886L288.942 183.21L270.625 211.378L286.036 176.886Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M288.942 183.212L291.68 189.222L284.146 199.366L273.303 213.966L288.942 183.212Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M288.679 159.944L296.197 158.02L295.352 159.409L288.679 159.944Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.671 161.544L288.679 159.942L268.797 167.152L268.671 161.544Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.796 167.153L288.679 159.943L289.346 165.665L268.796 167.153Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.796 167.152L289.346 165.664L270.238 177.875L268.796 167.152Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M289.348 165.666L288.68 159.944L295.352 159.409L292.179 164.639L289.348 165.666Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.671 161.545L268.797 167.153L248.894 166.986L268.671 161.545Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.796 167.155L270.238 177.877L249.574 176.577L268.796 167.155Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M304.291 144.675L304.736 145.052L286.035 176.888L304.291 144.675Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M304.292 144.676L286.035 176.888L284.731 176.914L285.925 174.945L289.805 168.553L291.786 165.289L292.18 164.638L295.351 159.408L296.198 158.018L297.615 155.682L298.73 153.841L304.292 144.676Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M284.731 176.911L286.036 176.886L266.896 205.486L284.731 176.911Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M289.346 165.665L292.178 164.638L291.786 165.288L289.346 165.665Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M289.347 165.666L291.787 165.289L289.805 168.554L289.347 165.666Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M289.347 165.665L289.805 168.553L285.925 174.944L270.239 177.875L289.347 165.665Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M291.678 189.22L292.678 188.968L284.145 199.365L291.678 189.22Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M270.624 211.381L288.941 183.211L273.302 213.965L270.624 211.381Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M270.24 177.876L285.926 174.945L284.731 176.912L275.673 187.875L272.262 191.015L270.24 177.876Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M270.238 177.876L272.26 191.015L251.731 191.834L270.238 177.876Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M272.262 191.017L275.672 187.875L273.524 190.477L272.262 191.017Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M286.036 176.887L270.624 211.379L266.896 205.487L286.036 176.887Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M266.895 205.487L270.623 211.38L250.637 232.287L266.895 205.487Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M284.732 176.912L266.897 205.487L263.757 202.295L272.378 191.861L273.523 190.475L275.673 187.874L284.732 176.912Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M272.261 191.015L273.523 190.475L272.377 191.861L272.261 191.015Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M272.261 191.016L272.377 191.862L263.756 202.296L256.621 206.902L272.261 191.016Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M248.896 166.987L268.797 167.154L249.576 176.576L248.896 166.987Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M249.574 176.575L270.237 177.875L251.73 191.833L249.574 176.575Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M270.624 211.382L273.302 213.966L254.631 236.541L270.624 211.382Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M251.731 191.834L272.26 191.015L256.62 206.901L254.254 208.427L251.731 191.834Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M263.756 202.296L266.896 205.488L245.406 224.376L263.756 202.296Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M249.576 176.576L251.732 191.835L230.328 185.649L249.576 176.576Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M251.733 191.835L254.255 208.429L253.429 208.965L232.875 204.08L251.733 191.835Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M248.895 166.986L249.575 176.575L229.341 173.126L248.895 166.986Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M263.755 202.296L245.406 224.377L240.232 217.483L253.429 208.964L254.256 208.429L256.621 206.902L263.755 202.296Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M240.232 217.483L245.405 224.378L222.883 238.912L240.232 217.483Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M229.341 173.125L249.576 176.575L230.328 185.648L229.341 173.125Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M254.631 236.538L237.75 252.61L235.02 254.878L254.631 236.538Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M270.624 211.381L254.631 236.54L250.637 232.288L270.624 211.381Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M250.638 232.286L254.631 236.538L235.02 254.878L250.638 232.286Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M251.733 191.835L232.875 204.08L230.328 185.649L251.733 191.835Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M245.406 224.377L266.896 205.488L250.637 232.288L245.406 224.377Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M250.638 232.287L235.02 254.879L229.773 249.249L250.638 232.287Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M229.773 249.249L235.02 254.879L213.287 265.339L229.773 249.249Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M250.636 232.287L229.771 249.25L245.405 224.377L250.636 232.287Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M245.407 224.378L229.773 249.251L222.884 238.912L245.407 224.378Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M222.883 238.91L229.773 249.249L207.062 259.369L222.883 238.91Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M240.233 217.481L222.884 238.91L215.794 228.927L231.054 221.779L235.166 219.855L240.233 217.481Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M215.793 228.928L222.883 238.91L198.99 248.339L215.793 228.928Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M232.873 204.079L253.427 208.964L240.232 217.483L235.166 219.855L232.873 204.079Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M230.327 185.648L232.874 204.078L210.466 192.38L230.327 185.648Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M229.34 173.124L230.327 185.647L209.659 178.73L229.34 173.124Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M232.873 204.079L235.166 219.855L231.054 221.781L212.869 212.011L232.873 204.079Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M188.879 180.555L209.66 178.73L210.466 192.381L188.879 180.555Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M188.879 180.555L210.466 192.381L189.122 194.015L188.879 180.555Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M210.467 192.38L209.66 178.729L230.328 185.648L210.467 192.38Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M229.773 249.25L213.287 265.341L207.063 259.372L229.773 249.25Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M198.992 248.339L222.884 238.91L207.064 259.371L198.992 248.339Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M215.793 228.927L198.991 248.339L190.579 237.434L193.402 236.48L194.622 236.07L198.492 234.764L211.717 230.301L215.083 229.168L215.793 228.927Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M190.579 237.435L198.991 248.34L173.262 251.566L190.579 237.435Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M210.465 192.38L232.873 204.078L212.869 212.009L210.465 192.38Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M207.062 259.37L213.285 265.339L188.847 266.636L207.062 259.37Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M210.466 192.381L212.87 212.01L189.123 194.015L210.466 192.381Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M189.124 194.014L212.87 212.009L191.195 214.184L189.124 194.014Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M188.88 180.555L189.123 194.014L164.672 171.185L188.88 180.555Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M212.869 212.01L231.052 221.78L215.791 228.929L215.082 229.167L212.869 212.01Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M212.871 212.01L215.084 229.167L211.718 230.302L191.196 214.185L212.871 212.01Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M198.991 248.341L207.063 259.372L181.968 261.431L198.991 248.341Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M189.123 194.015L191.195 214.185L163.925 183.124L189.123 194.015Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M191.195 214.185L211.717 230.302L198.491 234.764L193.332 235.184L191.195 214.185Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M191.196 214.184L193.334 235.183L165.771 204.214L191.196 214.184Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M193.333 235.184L198.491 234.766L194.622 236.071L193.333 235.184Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M193.334 235.182L194.622 236.069L193.402 236.48L193.334 235.182Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M168.253 228.067L193.333 235.186L193.402 236.483L190.58 237.436L180.027 239.299L168.253 228.067Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.035 146.05L137.262 185.061L108.307 165.543L108.035 146.05Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.035 146.049L108.308 165.541L82.0445 134.938L108.035 146.049Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.308 165.544L139.886 211.051L110.715 192.503L108.308 165.544Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M136.036 164.27L108.036 146.049L111.086 137.84L136.036 164.27Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M141.232 233.791L112.467 218.303L110.713 192.501L141.232 233.791Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M112.469 218.305L136.977 243.853L134.185 243.993L110.885 234.845L112.469 218.305Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M110.885 234.845L134.184 243.993L125.539 244.425L110.885 234.845Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M82.0447 134.94L108.307 165.543L81.9202 154.863L82.0447 134.94Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.037 146.049L82.0458 134.938L85.4632 126.057L108.037 146.049Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.036 146.049L85.4626 126.058L111.086 137.84L108.036 146.049Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M85.4632 126.058L82.0457 134.939L63.1574 124.929L85.4632 126.058Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M82.0456 134.939L81.9212 154.862L59.2835 134.149L82.0456 134.939Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.308 165.544L110.715 192.503L81.9203 154.864L108.308 165.544Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M81.9213 154.864L110.715 192.502L83.7242 181.565L81.9213 154.864Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M112.467 218.305L110.884 234.844L85.3799 208.759L112.467 218.305Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M110.883 234.845L125.538 244.425L119.03 244.752L105.192 240.08L110.883 234.845Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M105.194 240.081L119.031 244.754L116.709 244.87L105.194 240.081Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M105.194 240.08L116.709 244.869L112.646 245.071L98.046 242.357L105.194 240.08Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M105.193 240.08L98.0451 242.358L78.6059 236.342L105.193 240.08Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M98.0454 242.357L112.645 245.071L109.489 245.228L90.2798 244.409L98.0454 242.357Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M90.2801 244.41L109.488 245.229L108.036 245.456L82.8948 249.372L90.2801 244.41Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M98.0452 242.358L90.2797 244.41L71.6644 241.763L98.0452 242.358Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M136.952 243.854L117.814 246.032L109.489 245.229L112.646 245.071L116.708 244.869L119.031 244.752L125.54 244.426L134.184 243.994L136.952 243.854Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M109.488 245.229L117.814 246.032L112.75 245.734L108.035 245.457L109.488 245.229Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M110.713 192.504L112.466 218.305L83.7217 181.566L110.713 192.504Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M110.884 234.845L105.193 240.08L84.1747 228.406L110.884 234.845Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M90.2791 244.409L82.8937 249.371L64.5629 248.413L90.2791 244.409Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M63.1561 124.929L82.0444 134.94L59.2823 134.15L63.1561 124.929Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M81.9191 154.863L83.7221 181.565L58.9571 155.035L81.9191 154.863Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M81.9203 154.862L58.9583 155.034L59.2826 134.148L81.9203 154.862Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M58.9589 155.035L83.7222 181.564L60.6197 182.8L58.9589 155.035Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M78.6064 236.341L98.0455 242.356L71.665 241.762L78.6064 236.341Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M78.6055 236.341L71.6641 241.762L54.6856 240.702L78.6055 236.341Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M61.9287 210.506L60.6205 182.8L85.381 208.759L61.9287 210.506Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M85.3817 208.759L60.6212 182.799L83.724 181.565L85.3817 208.759Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M61.9282 210.505L85.3805 208.759L84.1749 228.405L61.9282 210.505Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M71.6638 241.764L90.2788 244.41L64.563 248.415L71.6638 241.764Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M112.469 218.305L85.382 208.76L83.7243 181.566L112.469 218.305Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M61.9288 210.506L84.1755 228.406L60.4672 231.207L61.9288 210.506Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M84.1734 228.404L85.379 208.757L110.883 234.843L84.1734 228.404Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M60.4675 231.207L84.1758 228.406L78.6073 236.342L60.4675 231.207Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M78.606 236.342L84.1745 228.406L105.193 240.079L78.606 236.342Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M60.4681 231.205L78.6079 236.341L54.688 240.701L60.4681 231.205Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M64.5632 248.413L82.894 249.371L57.131 255.954L64.5632 248.413Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M64.5647 248.413L57.1324 255.955L39.6677 254.777L64.5647 248.413Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M71.6643 241.763L64.5634 248.414L47.4135 247.516L71.6643 241.763Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M39.6682 254.779L57.1313 255.955L31.3966 262.53L39.6682 254.779Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M64.5644 248.413L39.6674 254.778L47.4148 247.517L64.5644 248.413Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M54.6875 240.702L71.666 241.763L47.4153 247.516L54.6875 240.702Z"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="0.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M516.538 113.36L509.038 103.619L491.344 120.544"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M531.255 128.392L524.303 122.995L516.539 113.36"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M521.15 161.228L534.323 140.086"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M529.729 138.085L539.06 131.214M551.199 129.713L577.474 122.998M550.895 118.095L546.158 122.324"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M491.345 120.546L491.047 120.897M558.671 116.773L550.894 118.095L546.648 122.106M534.049 127.861L534.882 127.325"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M504.689 195.033L521.15 161.227"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M577.472 122.999L567.76 119.783"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M567.762 119.786L558.673 116.775"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M511.996 142.058L530.928 132.22"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M487.15 221.542L504.692 195.032"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M467.086 234.753L487.149 221.544"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M441.012 234.356L463.753 236.901"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M463.754 236.9L467.086 234.752"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M430.561 83.0221L463.063 103.956M415.098 218.374L441.014 234.358"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M370.406 67.7712L399.109 68.7585"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M387.157 195.028L415.097 218.374"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M399.11 68.7592L430.561 83.0213"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M349.594 168.193L359.101 172.798"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M359.102 172.796L387.159 195.027"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M345.404 82.5874L370.406 67.7712"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M316.528 166.455L334.117 162.542"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M323.83 110.455L345.404 82.5876"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M146.647 254.507L161.924 260.167"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M161.923 260.167L188.846 266.634"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M164.671 171.185L138.174 155.019"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M304.291 144.675L323.83 110.454"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M288.559 156.449L268.673 161.546"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M298.729 153.84L288.558 156.448"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M292.68 188.968L311.941 169.442"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M284.145 199.365L292.678 188.968"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M268.672 161.545L248.895 166.986"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M237.75 252.611L254.631 236.539M248.896 166.986L229.341 173.126"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M237.75 252.61L235.02 254.878"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M254.631 236.539L273.302 213.966"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M209.66 178.731L188.879 180.555"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M213.287 265.339L235.02 254.879"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M229.341 173.124L209.66 178.73"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M188.847 266.636L213.287 265.339"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M188.88 180.556L164.672 171.186"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M138.173 155.019L111.086 137.841"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M90.2798 244.408L109.488 245.228"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M112.75 245.734L126.236 248.831M98.0444 242.358L112.644 245.071"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M63.1557 124.93L85.4614 126.058L111.085 137.842"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M60.6196 182.799L61.9277 210.505"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M61.9284 210.506L60.4668 231.207M59.2837 134.15L58.9594 155.035"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M60.4677 231.207L54.6875 240.703"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M63.157 124.93L59.2832 134.15"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M58.9583 155.035L60.6191 182.8"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M57.131 255.954L82.894 249.371"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M39.6662 254.777L31.3945 262.529"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M54.6862 240.701L47.4141 247.515"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M31.3966 262.528L57.1313 255.953"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M47.415 247.517L39.668 254.779"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M525.598 151.667L534.323 140.087"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M534.324 140.085L541.211 130.949"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M534.883 127.326L546.157 122.325"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M488.934 125.73L516.302 131.383"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M494.776 123.157L507.21 127.316"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M463.062 103.954L491.046 120.896"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M334.115 162.54L349.593 168.191"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M349.593 168.192L360.045 172.008"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M311.939 169.443L316.528 166.455"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M316.527 166.455L332.902 155.785"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M126.238 248.83L146.646 254.507"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M146.647 254.509L154.705 256.751"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M159.6 242.389L164.23 242.09"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M284.73 176.912L285.925 174.944"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M273.301 213.966L284.144 199.366"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M284.145 199.365L291.678 189.22"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M263.756 202.296L272.377 191.862"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M215.793 228.929L231.054 221.781"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M164.23 242.089L165.014 241.951"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.035 245.456L112.75 245.734"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M112.75 245.734L117.814 246.031"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M82.8938 249.37L108.035 245.455"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M108.036 245.456L109.49 245.228"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M546.156 122.324L546.647 122.106"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M546.646 122.107L558.67 116.775"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M517.995 130.922L520.417 130.459"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M520.414 130.459L531.253 128.392"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M531.254 128.392L534.049 127.86"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M534.05 127.86L542.361 126.276"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M516.302 131.383L516.568 131.436"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M516.569 131.436L524.312 133.036"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M507.21 127.314L513.848 129.536"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M524.31 133.037L530.927 132.219"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M530.928 132.217L531.279 132.173"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M541.209 130.948L551.197 129.713"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M491.048 120.898L491.704 121.297"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M491.705 121.296L494.776 123.156"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M151.239 242.931L159.601 242.389"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M285.924 174.945L289.804 168.552"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M275.672 187.875L284.731 176.912"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M240.232 217.482L253.428 208.964"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M253.428 208.964L254.255 208.429"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M254.256 208.427L256.621 206.9"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M256.621 206.902L263.756 202.296"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M231.053 221.779L235.165 219.853"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M235.166 219.855L240.233 217.481"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M190.58 237.435L193.403 236.481"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M211.717 230.302L215.083 229.168"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M215.082 229.167L215.792 228.927"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M165.014 241.953L168.721 241.297"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M109.488 245.229L112.646 245.071"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M112.645 245.07L116.708 244.868"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M116.708 244.868L119.031 244.753"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M518.512 131.096L524.312 133.036"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M539.06 131.213L541.21 130.947"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M139.296 243.702L151.239 242.93"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M272.377 191.863L273.523 190.476"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M273.521 190.476L275.672 187.875"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M198.492 234.765L211.717 230.304"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M168.722 241.296L180.027 239.298"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M180.027 239.296L190.579 237.433"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M134.184 243.994L136.952 243.854"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M513.848 129.537L517.995 130.924"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M517.994 130.925L518.511 131.098"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M531.279 132.175L532.641 132.008"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M532.639 132.007L539.059 131.214"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M136.975 243.853L139.295 243.702"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M295.352 159.408L296.197 158.018"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M296.197 158.017L297.615 155.68"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M193.402 236.482L194.622 236.071"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M194.621 236.072L198.491 234.765"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M119.03 244.752L125.538 244.425"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M125.54 244.425L134.184 243.992"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M292.178 164.638L295.351 159.408"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M297.615 155.681L298.731 153.84"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M298.73 153.841L304.292 144.676"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M289.805 168.554L291.787 165.289"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M291.787 165.289L292.179 164.639"
+          stroke={hover ? `#3335F9` : `#CCCCCC`}
+          stroke-width="1.4"
+          stroke-miterlimit="10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  );
+};
+
+export default Group5;
