@@ -8,10 +8,10 @@ import WhatWeDo from "@/components/WhatWedo";
 import { useState, useRef, useEffect } from "react";
 import Cookies from "js-cookie";
 import "toastr/build/toastr.min.css";
-import Skillbuzz from "../partners/Skillbuzz.png";
-import Swift from "../partners/swift.png";
-import Trussme from "../partners/trussme.png";
-import Unipreneur from "../partners/unipreneur.png";
+import Skillbuzz from "../partners/Skillbuzz.svg";
+import Swift from "../partners/swift.svg";
+import Trussme from "../partners/trussme.svg";
+import Unipreneur from "../partners/unipreneur.svg";
 import Image from "next/image";
 import Vector from "../assets/vectorHero.svg";
 import VectorStart from "../assets/Vector.png";
@@ -346,16 +346,16 @@ export default function Home() {
         </div>
         <div className="cli-resp-trusted-partner flex flex-wrap md:flex-nowrap lg:flex-wrap justify-center md:justify-between gap-5">
           <div>
-            <Image src={Swift} className="opacity-25 h-20 w-20" alt="img" draggable="false"/>
+            <Image src={Swift} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={Unipreneur} className="h-20 w-44" alt="img" draggable="false"/>
+            <Image src={Skillbuzz} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={Trussme} className="opacity-25 h-20 w-32" alt="img" draggable="false"/>
+            <Image src={Trussme} className="opacity-25" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={Skillbuzz} className="opacity-25 h-24 w-44" alt="img" draggable="false"/>
+            <Image src={Unipreneur} className="opacity-25" alt="img" draggable="false"/>
           </div>
         </div>
       </div>
