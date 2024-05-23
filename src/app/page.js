@@ -1300,25 +1300,22 @@ export default function Home() {
                     <RatingStart height={10} width={10} color={"#FFB800"} />
                     <RatingStart height={10} width={10} color={"#FFB800"} />
                     <RatingStart height={10} width={10} color={"#FFB800"} />
-                    {/* <RatingStart height={10} width={10} color={"#FFB800"} /> */}
+                    <RatingStart height={10} width={10} color={"#FFB800"} />
                   </div>
                   <div className="sliderHeadClient text-white text-xl 2xl:text-3xl font-semibold pr-10 2xl:pr-20 my-3">
                     “Highly recommend, efficient and very productive."
                   </div>
                   <div className="sliderSubClient text-trueGray-300 italic text-sm ">
-                    Raen AI is a game-changer! We needed help navigating the
-                    world of AI for our business, and their team was incredibly
-                    knowledgeable and supportive. They explained everything in
-                    simple terms and helped us develop a solution that exceeded
-                    our expectations. We're now seeing a significant increase in
-                    efficiency and productivity, all thanks to Raen AI.
+                  Raen AI has always impressed me with their extensive knowledge in the AI space. 
+                  Their expertise is evident and keeps them ahead of the curve, delivering outstanding results. 
+                  The team at Raein AI boasts top-tier talent, making them a standout player in the UAE's industry landscape
                   </div>
                   <div className="my-3">
                     <div className="sliderSignClientB text-white font-semibold">
-                      Mr. Alvero Moreno
+                     Safwan
                     </div>
                     <div className="sliderSignClientI text-trueGray-300 italic text-sm">
-                      The Tarasov Mob
+                    Trussme
                     </div>
                   </div>
                 </div>
