@@ -1277,22 +1277,20 @@ export default function Home() {
                     <RatingStart height={10} width={10} color={"#FFB800"} />
                   </div>
                   <div className="sliderHeadClient text-white text-xl 2xl:text-3xl font-semibold pr-10 2xl:pr-20 my-3">
-                    “Highly recommend, efficient and very productive."
+                    “Exceptional Service and Swift Delivery by Raen AI"
                   </div>
                   <div className="sliderSubClient text-trueGray-300 italic text-sm 2xl:pr-10">
-                    Raen AI is a game-changer! We needed help navigating the
-                    world of AI for our business, and their team was incredibly
-                    knowledgeable and supportive. They explained everything in
-                    simple terms and helped us develop a solution that exceeded
-                    our expectations. We're now seeing a significant increase in
-                    efficiency and productivity, all thanks to Raen AI.
+                  Raen AI surpassed our expectations with their cutting-edge solutions and outstanding project delivery. 
+                  They completed an AI Customer Support project for Swift Auto in record time, 
+                  maintaining high quality and precision throughout. 
+                  Their professionalism and expertise in AI are truly commendable.
                   </div>
                   <div className="my-3">
                     <div className="sliderSignClientB text-white font-semibold">
-                      Mr. John Wick
+                    Mr. Ammad Ahmed
                     </div>
                     <div className="sliderSignClientI text-trueGray-300 italic text-sm">
-                      The Tarasov Mob
+                    Swift Auto
                     </div>
                   </div>
                 </div>
