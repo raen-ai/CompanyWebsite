@@ -8,8 +8,8 @@ import WhatWeDo from "@/components/WhatWedo";
 import { useState, useRef, useEffect } from "react";
 import Cookies from "js-cookie";
 import "toastr/build/toastr.min.css";
+import Qdrant from "../partners/qdrant.png";
 import Skillbuzz from "../partners/skillbuzz.png";
-import Spotify from "../assets/spotify.png";
 import Swift from "../partners/swift.png";
 import Trussme from "../partners/trussme.png";
 import Unipreneur from "../partners/unipreneur.png";
@@ -348,10 +348,10 @@ export default function Home() {
         </div>
         <div className="cli-resp-trusted-partner flex flex-wrap md:flex-nowrap lg:flex-wrap justify-center md:justify-between gap-5">
           <div>
-            <Image src={Swift} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
+            <Image src={Qdrant} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={Spotify} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
+            <Image src={Swift} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
           </div>
           <div>
             <Image src={Skillbuzz} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
