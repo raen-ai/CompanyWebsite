@@ -13,7 +13,7 @@ import Skillbuzz from "../partners/skillbuzz.png";
 import Swift from "../partners/swift.png";
 import Trussme from "../partners/trussme.png";
 import Unipreneur from "../partners/unipreneur.png";
-import Adobe from "../assets/Adobe.png";
+import Ordo from "../partners/ordo.png";
 import Image from "next/image";
 import Vector from "../assets/vectorHero.svg";
 import VectorStart from "../assets/Vector.png";
@@ -360,7 +360,7 @@ export default function Home() {
             <Image src={Trussme} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
           </div>
           <div>
-            <Image src={Adobe} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
+            <Image src={Ordo} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
           </div>
           <div>
             <Image src={Unipreneur} className="opacity-25 h-[48px] w-[129px]" alt="img" draggable="false"/>
