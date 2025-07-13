@@ -303,7 +303,7 @@ const Footer = () => {
                         <p className=" text-gray-400 text-sm ">Sharjah, UAE</p>
                       </div>
                       <p className="md:mt-3 text-gray-400 text-sm ">
-                        +971 56 7318433
+                        +971 585170156
                       </p>
                       <p className="mt-2 md:mt-3 text-gray-400 text-sm ">
                         info@raen.ai
